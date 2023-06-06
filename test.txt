@@ -1,0 +1,8 @@
+Red     BLUE
+5
+Hexagon    0	225	219	BLUE	NON-FILLED  
+Square     1	524	225	RED	NON-FILLED  
+Rectangle  2	283	378	511	477	RED	BLUE
+ Circle     4	805	814	336	230	RED	ORANGE 
+ Hexagon    5	1064	170	RED	GREEN
+ 
